@@ -13,7 +13,7 @@
 	<description>Maven Web Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Anil Software Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
@@ -101,12 +101,12 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Anil Software Technologies Releases Nexus Repository</name>
 	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Anil Software Technologies Snapshot Nexus Repository </name>
 	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
